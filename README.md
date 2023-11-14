@@ -1,1 +1,3 @@
-# sqlalchemy-challenge
+# sqlalchemy-challenge, thanks to Jacob Dolinsky for assistance
+I explore Honolulu's climate data using Python and SQLAlchemy, including analyses on Honolulu's weather stations, precipitation, and temperature. I then create an API for the last year of precipitation data and temperature dataa, all listed stations, and a list of minimum, average, and maximum temperatures for certain time ranges.
+hawaii.sqlite source: Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overview of the Global Historical Climatology Network-Daily Database. Journal of Atmospheric and Oceanic Technology, 29, 897-910.
